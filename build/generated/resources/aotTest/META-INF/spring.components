@@ -1,0 +1,4 @@
+#
+#Thu Apr 07 22:20:02 KST 2022
+com.jojoldu.book.springboot.Application=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.jojoldu.book.springboot.web.HelloController=org.springframework.stereotype.Component
