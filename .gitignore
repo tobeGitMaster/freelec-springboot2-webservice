@@ -1,3 +1,4 @@
 ### IntelliJ IDEA ###
 .gradle
 .idea
+application-oauth.properties
